@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RichTextDemo</string>
+
+    <string name="lei">[泪]</string>
+    <string name="haha">[哈哈]</string>
+    <string name="duorou">[多肉]</string>
+    <string name="duorou2">[多肉2]</string>
+</resources>
